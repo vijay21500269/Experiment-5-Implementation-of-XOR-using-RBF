@@ -108,6 +108,7 @@ mu2 = np.array([1, 0])
 
 w = end_to_end(x1, x2, ys, mu1, mu2)
 ~~~
+## Testing
 ~~~
 mu1 = np.array([0, 0])
 mu2 = np.array([1, 1])
