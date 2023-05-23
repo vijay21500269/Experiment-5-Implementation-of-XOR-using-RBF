@@ -121,8 +121,8 @@ print(f"Input:{np.array([1, 1])}, Predicted: {predict_matrix(np.array([1, 1]), w
 
 
 ## OUTPUT :
-![img1]()
-![img2]()
+![img1](https://github.com/vijay21500269/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/img1.png)
+![img2](https://github.com/vijay21500269/Experiment-5-Implementation-of-XOR-using-RBF/blob/main/img2.png)
 
 ## RESULT:
 
